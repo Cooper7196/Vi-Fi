@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Vi-Fi_Parts")(type "KiCad")(uri "${KIPRJMOD}/Vi-Fi_Parts.kicad_sym")(options "")(descr ""))
+)
