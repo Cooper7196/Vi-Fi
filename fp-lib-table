@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Vi-Fi")(type "KiCad")(uri "${KIPRJMOD}/Vi-Fi.pretty")(options "")(descr ""))
+)
